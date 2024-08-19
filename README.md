@@ -1,6 +1,10 @@
 # Pi-Network---Consensus-Smart-Contracts-Merkle-Roots
 Pi Network - Consensus, Smart Contracts, &amp; Merkle Roots
 
+If you need a referal code you can join my network use referal code: derekgeisler
+www.minepi.com/derekgeisler
+
+
 A more advanced implementation of Pi Coin that incorporates several features found in modern blockchain networks. This implementation will include advanced concepts like a decentralized network, consensus algorithm, merkle trees, and more sophisticated smart contracts.
 
 This advanced implementation includes:
