@@ -25,3 +25,5 @@ Proof-of-Work consensus mechanism
 Smart contracts for automated, trustless operations
 Basic token swapping and staking functionality
 Network node management and conflict resolution
+
+![Screenshot of "Original_Book_Cover"](/IMG_2257.jpeg)
